@@ -1,0 +1,11 @@
+{
+  "name": "fs-buddy",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "fs": "*",
+    "lodash": "*",
+    "path": "*"
+  }
+}
